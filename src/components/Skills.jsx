@@ -9,7 +9,7 @@ import Sketchup from "../assets/SketchUp.jpeg"
 
 const Skills = () => {
   return (
-    <div className=' text-accent md:h-[150px] max-w-[1400px] mx-auto grid grid-cols-3 place-items-center md:flex md:justify-between md:items-center' id='skills'>
+    <div className=' bg-background text-accent md:h-[150px] max-w-[1400px] mx-auto grid grid-cols-3 place-items-center md:flex md:justify-between md:items-center' id='skills'>
         <h2 className='text-boldtext text-2xl md:text-4xl font-bold m-4'>
             My <br/> Skills
         </h2>

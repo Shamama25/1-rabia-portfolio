@@ -8,7 +8,7 @@ import Project5 from "../assets/cafe.png"
 
 const Work = () => {
   return (
-    <div className='max-w-[1200px] mx-auto p-5' id='work'>
+    <div className='bg-background max-w-[1400px] mx-auto p-5' id='work'>
       <div className='pb-8'>
         <p className='text-4xl mb-3 font-bold text-boldtext'>Projects</p>
         <p className='text-accent'>Explore my latest work and design projects!</p>
